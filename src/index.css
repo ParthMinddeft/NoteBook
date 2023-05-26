@@ -1,0 +1,18 @@
+body {
+  background-image: url("D:/notebook/src/Image/dbf11d3396f71266f90291635fb8fa11.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.color-nav {
+  background-color: gold;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+i {
+  cursor: pointer;
+}
